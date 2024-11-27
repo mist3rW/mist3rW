@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Inspiring Full Stack Web Developer, based in Bangkok.
 --------------------------
 
-I’m a passionate web developer transitioning from a career in e-commerce project management. My journey into tech has equipped me with a unique blend of business and technical skills, allowing me to create impactful web solutions. I’m always open to collaborating on exciting projects or discussing web development and technology. Feel free to reach out to me
+Hey there! By day, I work full-time in project management, but when the sun sets, I become a code-slinging, tech-obsessed hobbyist who lives for the thrill of cutting-edge technology. I spend my free time diving into the world of web development, crafting websites that (hopefully) don’t crash ✌️😎
+
 
 *   🌍  I'm based in Bangkok
 *   🖥️  See my portfolio at [nuttanan.com](http://nuttanan.com)
 *   ✉️  You can contact me at [7nuttanan@gmail.com](mailto:7nuttanan@gmail.com)
-*   🧠  I'm learning Advanced React and TypeScript, GraphQL, Go, Docker and Cloud VPS
 
 ### Skills 
 
